@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+red,"D2,D3,D4,D5,D6,D7",LED_0603_1608Metric,C2286
+220,"R10,R11,R12,R5,R6,R9",R_0402_1005Metric,C25091
+10k,"R1,R2,R3,R4,R7,R8",R_0402_1005Metric,C25744
+SW_SPST,"SW0,SW1,SW2",SW_SPST_TS-1187A,C318884
+Arduino_Uno_R3_Shield,XA1,Arduino_Uno_R3_Shield,
+Conn_01x02_Pin,J2,PinSocket_2x01_P2.54mm_Vertical,
+RotaryEncoder_Switch,SW3,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,
+Conn_01x02_Pin,J1,PinHeader_2x01_P2.54mm_Vertical,
